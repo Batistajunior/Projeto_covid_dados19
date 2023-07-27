@@ -1,6 +1,6 @@
 # Projeto_covid_dados19  
 
-# Projeto COVID-19 Dashboard
+
 
 Este projeto consiste em um dashboard interativo para visualização dos casos de COVID-19 em diferentes municípios. Os dados são obtidos através de uma API, processados utilizando o Pentaho Data Integration e, em seguida, visualizados usando Python, Flask e Plotly.
 
